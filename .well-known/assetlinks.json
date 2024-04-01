@@ -1,5 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "jp.co.resona_gr.ss.SmartApp.tlblocal",
-               "sha256_cert_fingerprints": ["01:3c:c9:0d:a3:50:57:62:21:88:0a:e0:3e:e1:cf:8b:20:60:6a:85:77:b8:eb:80:90:8a:eb:a0:54:12:57:e2"] }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.co.resona_gr.ss.SmartApp.tlblocal",
+    "sha256_cert_fingerprints":
+    ["01:3C:C9:0D:A3:50:57:62:21:88:0A:E0:3E:E1:CF:8B:20:60:6A:85:77:B8:EB:80:90:8A:EB:A0:54:12:57:E2"]
+  }
 }]
